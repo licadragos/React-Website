@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/licadragos/EXPLORE-Website.git/static/css/main.baa9abf9.css",
+    "main.js": "/licadragos/EXPLORE-Website.git/static/js/main.d4ddd253.js",
+    "static/media/picture5.jpg": "/licadragos/EXPLORE-Website.git/static/media/picture5.95208d4044de2ac71742.jpg",
+    "static/media/picture11.jpg": "/licadragos/EXPLORE-Website.git/static/media/picture11.c82eefea233cc1778157.jpg",
+    "static/media/picture6.jpg": "/licadragos/EXPLORE-Website.git/static/media/picture6.0eb8e013b94f3078dbf1.jpg",
+    "static/media/picture15.jpg": "/licadragos/EXPLORE-Website.git/static/media/picture15.51447957feed90b671ba.jpg",
+    "static/media/picture8.webp": "/licadragos/EXPLORE-Website.git/static/media/picture8.a7d7b3c35ced2525799f.webp",
+    "static/media/picture9.jpg": "/licadragos/EXPLORE-Website.git/static/media/picture9.954ae6d876a960bea1b8.jpg",
+    "static/media/picture12.jpg": "/licadragos/EXPLORE-Website.git/static/media/picture12.10ec63903716a7637b20.jpg",
+    "static/media/picture1.jpg": "/licadragos/EXPLORE-Website.git/static/media/picture1.b9b6592f7f2e32565528.jpg",
+    "static/media/picture13.jpg": "/licadragos/EXPLORE-Website.git/static/media/picture13.5346035fbe02ed2e0225.jpg",
+    "static/media/picture14.webp": "/licadragos/EXPLORE-Website.git/static/media/picture14.734efb3a6a60114fe8c5.webp",
+    "static/media/picture3.jpg": "/licadragos/EXPLORE-Website.git/static/media/picture3.e2ef58954cc5a089b64a.jpg",
+    "static/media/picture4.jpg": "/licadragos/EXPLORE-Website.git/static/media/picture4.814277d689790a7132b1.jpg",
+    "static/media/picture10.jpg": "/licadragos/EXPLORE-Website.git/static/media/picture10.4e0a7328e06e644ae8ba.jpg",
+    "static/media/picture7.jpg": "/licadragos/EXPLORE-Website.git/static/media/picture7.9c827ed4825c66704b10.jpg",
+    "static/media/picture2.jpg": "/licadragos/EXPLORE-Website.git/static/media/picture2.2295847dc034f403f10a.jpg",
+    "static/media/gold.png": "/licadragos/EXPLORE-Website.git/static/media/gold.42f7d8f40c346adfe3a7.png",
+    "index.html": "/licadragos/EXPLORE-Website.git/index.html",
+    "main.baa9abf9.css.map": "/licadragos/EXPLORE-Website.git/static/css/main.baa9abf9.css.map",
+    "main.d4ddd253.js.map": "/licadragos/EXPLORE-Website.git/static/js/main.d4ddd253.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baa9abf9.css",
+    "static/js/main.d4ddd253.js"
+  ]
+}
